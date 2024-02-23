@@ -34,9 +34,9 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
+  - Driveable
+  - Bike Body
+  - Bike Rigidbody
   m_SortingLayers:
   - name: Default
     uniqueID: 0
